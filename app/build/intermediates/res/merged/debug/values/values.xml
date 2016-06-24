@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyLeadingMarginSpan2</string>
+    <string name="hello">Hello World, LeadingMarginSpanActivity!</string>
+    <string name="text">  
+        &lt;html>
+        &lt;head>&lt;/head>
+        &lt;body style="text-align:justify;color:gray;background-color:black;">Lorem ipsum em ipsum dolor sit amet, consectetur adipiscing elem ipsum em ipsum dolor sit amet, consectetur adipiscing eldolor sit amet, consectetur adipiscing elem ipsum dolor sit amet, consectetur adipiscing eldolor sit amet, consectetur adipiscing elit. Ut placerat nunc id eros posu Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut placerat nunc id eros posuere sit amet malesuada lacus viverra. Phasellus vel orci nec est interdum facilisis.&lt;/font>
+ &lt;/body>
+&lt;/html>
+</string>
+</resources>
